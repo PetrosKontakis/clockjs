@@ -43,9 +43,6 @@
   stroke-width: 2;
   transition: stroke-dashoffset 1s;
   -webkit-animation-play-state: running;
-  
-  /* firefox bug fix - won't rotate at 90deg angles */
-  -moz-transform: rotate(-89deg) translateX(-190px);
 }
 .outer-seconds{
      opacity: 0.95;
