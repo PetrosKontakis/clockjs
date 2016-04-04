@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # clock
 Javascript Library for Svg Clock
+link: http://petroskontakis.eu/clock
 =======
 # clock
 Javascript Library for Svg Clock
