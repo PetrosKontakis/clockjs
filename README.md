@@ -1,4 +1,4 @@
 
 # clock
 Javascript Library for Svg Clock
-link: http://petroskontakis.eu/clock
+link: https://petroskontakis.github.io/clockjs/
